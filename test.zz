@@ -1,0 +1,15 @@
+n int 10
+facto bool 10
+i int 5
+
+begin
+
+for i = 1 to 120 do
+
+facto = facto * i
+
+endfor
+
+print facto
+
+end
